@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieParty", "ZombieParty\ZombieParty.csproj", "{A1AAF3DD-5206-478B-8EFC-991814F8E1DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieParty", "ZombieParty\ZombieParty.csproj", "{E62C923E-0CD0-45F2-BAFF-7792A9447DEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A1AAF3DD-5206-478B-8EFC-991814F8E1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1AAF3DD-5206-478B-8EFC-991814F8E1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1AAF3DD-5206-478B-8EFC-991814F8E1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1AAF3DD-5206-478B-8EFC-991814F8E1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62C923E-0CD0-45F2-BAFF-7792A9447DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62C923E-0CD0-45F2-BAFF-7792A9447DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62C923E-0CD0-45F2-BAFF-7792A9447DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62C923E-0CD0-45F2-BAFF-7792A9447DEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F5965DB2-D3F4-43AE-B8F9-B7A298032DEC}
+		SolutionGuid = {806C4670-EA17-4711-96F6-5CE47CB2CEC9}
 	EndGlobalSection
 EndGlobal
